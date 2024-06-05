@@ -1,0 +1,2 @@
+Please add uri for mongodb connection , without password it was not working 
+Command to start is "npm start".
